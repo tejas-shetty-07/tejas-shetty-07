@@ -82,10 +82,10 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://instagram.com/shashank__shetty__.08">
+  <a href="https://instagram.com/tejas_shetty_07">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
   </a>
-  <a href="mailto:shashishashank129@gmail.com">
+  <a href="mailto:tejashetty43296@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
   </a>
 </p>
