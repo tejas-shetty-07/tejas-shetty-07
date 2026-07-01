@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bharath Lokesh</h1>
+<h1 align="center">Hi 👋, I'm Tejas Shetty</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=WELCOME+TO+MY+GITHUB+PROFILE" alt="Typing SVG" />
 </p>
@@ -97,9 +97,8 @@
 ---
 ## 🌐 Connect with Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bharatth.07/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=bharathlokesh07@gmail.com)
-
+[![Instagram](https://www.instagram.com/tejas_shetty_07/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=tejashetty43296@gmail.com)
 <h3 align="center">
 ⭐ Thanks for visiting my GitHub profile! ⭐
 </h3>
