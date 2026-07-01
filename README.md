@@ -96,5 +96,5 @@
 
 ## 👀 Profile Views
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Shashank-shetty08&icon=0&color=0"/>
+  <img src="https://avatars.githubusercontent.com/u/USER_ID?v=4"/>
 </p>
