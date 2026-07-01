@@ -96,5 +96,5 @@
 
 ## 👀 Profile Views
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/USER_ID?v=4"/>
+  <img src="[https://avatars.githubusercontent.com/u/USER_ID?v=4](https://avatars.githubusercontent.com/u/583231?v=4)"/>
 </p>
