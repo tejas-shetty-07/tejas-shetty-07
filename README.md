@@ -74,27 +74,3 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shashank-shetty08&theme=rose&no-frame=false&no-bg=true&margin-w=10"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://instagram.com/tejas_shetty_07">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:tejashetty43296@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 👀 Profile Views
-<p align="center">
-  <img src="[https://avatars.githubusercontent.com/u/USER_ID?v=4](https://avatars.githubusercontent.com/u/583231?v=4)"/>
-</p>
