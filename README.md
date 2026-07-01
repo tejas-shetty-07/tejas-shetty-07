@@ -97,7 +97,7 @@
 ---
 ## 🌐 Connect with Me
 
-[![Instagram](https://www.instagram.com/tejas_shetty_07/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tejas_shetty_07/?hl=en)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=tejashetty43296@gmail.com)
 <h3 align="center">
 ⭐ Thanks for visiting my GitHub profile! ⭐
