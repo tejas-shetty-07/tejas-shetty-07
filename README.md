@@ -5,6 +5,8 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Artificial+Intelligence+%26+Machine+Learning;AI+%7C+ML%7C;;Always+Learning&font=Fira+Code&center=true&width=650&height=45&color=58A6FF&vCenter=true&pause=1000" />
 </p>
 
+![](https://komarev.com/ghpvc/?username=BharathLokesh&label=PROFILE+VIEWS&color=brightgreen&style=plastic)
+
 ---
 
 ## 🌟 About Me
