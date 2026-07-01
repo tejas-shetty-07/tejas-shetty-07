@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=WELCOME+TO+MY+GITHUB+PROFILE" alt="Typing SVG" />
 </p>
-<h3 align="center">Artificial Intelligence & Machine Learning Student | AI Enthusiast | IoT Developer | Web Developer</h3>  My interests include AI, IoT, web development, and automation systems. I enjoy learning by building practical projects and continuously improving my technical skills.
+<h3 align="center">I believe in learning by building, continuously exploring emerging technologies, contributing to meaningful projects, and improving my skills every day. I enjoy tackling real-world challenges by developing innovative solutions that combine Artificial Intelligence, Machine Learning, IoT, and modern web technologies.
 
 ![](https://komarev.com/ghpvc/?username=BharathLokesh&label=PROFILE+VIEWS&color=brightgreen&style=plastic)
 
